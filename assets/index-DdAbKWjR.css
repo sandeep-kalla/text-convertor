@@ -1,0 +1,1 @@
+.buttons{display:flex;align-items:center;justify-content:center;gap:40px;margin-top:30px}.container input{width:50%;height:100px;text-align:center;font-size:2.5em;font-weight:500;margin-left:25%}.container input::placeholder{text-align:center;color:#8080801a}.answer{width:50%;margin-left:25%}
